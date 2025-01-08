@@ -49,7 +49,7 @@
 
 /* header */
 .header{
-    background-image: url("../images/developer.png"), url("/images/header_bg.png");
+    background-image: url("../images/developer.png"), url("../images/header_bg.png");
     background-repeat: no-repeat;
     /* 2ta image merge korle 2 tar value , diye akshate deua jay */
     background-position: top left, bottom right;
