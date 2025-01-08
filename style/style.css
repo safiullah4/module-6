@@ -151,3 +151,32 @@ main section{
     border-radius: 5px;
 
 }
+/* resume style */
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-description{
+    color: #757575;
+}
+
+/* footer style */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], input[type="email"], textarea {
+    height: 64px;
+    border-radius: 5px;
+    /* main container e flex kore mini container er items e alada display kore jay */
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+
+}
